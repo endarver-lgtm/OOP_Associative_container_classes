@@ -1,0 +1,20 @@
+# Visual Studio build outputs
+x64/
+Debug/
+Release/
+lab4/
+*.user
+*.obj
+*.exe
+*.pdb
+*.ilk
+*.log
+*.tlog
+*.idb
+*.iobj
+*.ipdb
+*.lastbuildstate
+*.FileListAbsolute.txt
+*.recipe
+.vs/
+*.dat
